@@ -1,4 +1,4 @@
-# ByteVM
+#  ByteVM
 
 A lightweight stack-based virtual machine with 18 instructions, written in C++17. ByteVM provides a simple environment for understanding how virtual machines work and how instructions are executed.
 
